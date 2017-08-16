@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/xml/preferences.xml"
+    }
+]

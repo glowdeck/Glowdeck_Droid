@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

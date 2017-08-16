@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_dot1.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/email_dot1.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page2_dots.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/page2_dots.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_mini.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/news_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/blue_right_arrow_framed.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/blue_right_arrow_framed.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_dot1.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_dot1.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/call_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/call_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/email_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/signout_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/signout_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/expand_arrow_down.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/expand_arrow_down.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_on_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/power_on_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_dot0.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/led_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/call_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/call_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_dot0.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/email_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_dot0.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_dot0.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/call_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/call_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streams_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/streams_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/led_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_mini.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_dot0.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/instagram_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_dot0.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_on_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/power_on_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/instagram_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_mini.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/weather_mini.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/message_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/message_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/expand_arrow_up.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/expand_arrow_up.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_dot0.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/twitter_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page1_dots.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/page1_dots.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_dot1.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_dot1.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/profile_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/profile_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/weather_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/blue_right_arrow_framed.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/blue_right_arrow_framed.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/plus_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/plus_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/weather_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/red_x.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/red_x.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/blue_right_arrow_framedbl.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/blue_right_arrow_framedbl.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streams_launcher.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/streams_launcher.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streams_launcher.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/streams_launcher.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page1_dots.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/page1_dots.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_mini.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/email_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_dot1.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_dot1.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_home.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_mini.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/call_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/call_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_off_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/power_off_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_off_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/power_off_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/fb_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/instagram_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streamsx_launcher.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/streamsx_launcher.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_dot0.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/news_dot0.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_dot0.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/expand_arrow_down.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/expand_arrow_down.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_off_icon_dark.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/power_off_icon_dark.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_dot1.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_dot1.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_home.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_dot1.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_dot1.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/weather_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/expand_arrow_down.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/expand_arrow_down.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_dot1.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/instagram_dot1.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_mini.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_mini.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/btunavail.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/btunavail.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_dot1.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_dot1.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/twitter_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/blue_right_arrow_framedbl.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/blue_right_arrow_framedbl.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streams_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/streams_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/about_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/about_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/get_more_devices_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/get_more_devices_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page3_dots.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/page3_dots.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_dot1.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/twitter_dot1.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_off_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/power_off_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/plus_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/plus_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/btunavail.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/btunavail.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/led_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_dot1.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_dot1.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/blue_right_arrow_framed.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/blue_right_arrow_framed.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/expand_arrow_up.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/expand_arrow_up.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_dot1.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_dot1.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/weather_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/fb_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page2_dots.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/page2_dots.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_mini.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/twitter_mini.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/message_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/message_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/message_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/message_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page2_dots.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/page2_dots.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/message_off.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/message_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streamsx_launcher.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/streamsx_launcher.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/call_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/call_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/blue_right_arrow_framedbl.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/blue_right_arrow_framedbl.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streamsx_launcher.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/streamsx_launcher.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/signout_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/signout_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_on_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/power_on_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/fb_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/weather_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/led_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_dot0.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/red_x.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/red_x.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_mini.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/instagram_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/profile_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/profile_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_dot0.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_dot0.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_dot0.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_off_icon_dark.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/power_off_icon_dark.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/devices_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/devices_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/led_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/power_off_icon_dark.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/power_off_icon_dark.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/led_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/signout_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/signout_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_dot0.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_dot0.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/devices_icon.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/devices_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page1_dots.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/page1_dots.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/get_more_devices_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/get_more_devices_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/twitter_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/plus_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/plus_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_mini.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/weather_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_stream_setting.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/ic_stream_setting.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_mini.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_mini.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streams_launcher.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/streams_launcher.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_on_half.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/led_on_half.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/profile_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/profile_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_on_half.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/led_on_half.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_home.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/streams_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/streams_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/btunavail.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/btunavail.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/led_on_half.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/led_on_half.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_mini.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/about_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/about_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_mini.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/weather_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/fb_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/twitter_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/twitter_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/weather_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/news_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_stream_setting.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_stream_setting.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/devices_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/devices_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/get_more_devices_icon.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/get_more_devices_icon.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/news_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_on.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/fb_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_mini.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_mini.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/email_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/message_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/message_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page3_dots.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/page3_dots.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_on.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/news_on.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/red_x.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/red_x.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/message_off.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/message_off.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/page3_dots.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/page3_dots.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/call_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/call_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/instagram_mini.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/instagram_mini.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/expand_arrow_up.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/expand_arrow_up.png"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_on.png",
+        "source": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/fb_on.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/email_off.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/email_off.png"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/news_dot1.png",
+        "source": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/src/main/res/drawable-hdpi/news_dot1.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/about_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/about_icon.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_stream_setting.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-hdpi/ic_stream_setting.png"
+    }
+]

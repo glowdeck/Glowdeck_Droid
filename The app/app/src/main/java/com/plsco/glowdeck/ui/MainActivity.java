@@ -426,6 +426,10 @@ public class MainActivity extends   Activity  {
 				// then poll every 5 seconds while drawer is opened
 			}
 		};
+
+        mDrawerToggle.onDrawerStateChanged(DrawerLayout.LOCK_MODE_LOCKED_OPEN);
+        mDrawerToggle.syncState();
+
 		mBatteryLevel = 0 ;
 		registerReceiver(this.mBatInfoReceiver, new IntentFilter(Intent.ACTION_BATTERY_CHANGED));
 	}catch(Exception e){e.printStackTrace();}
@@ -864,32 +868,50 @@ public class MainActivity extends   Activity  {
 		switch (position) {
 		case DRAWER_STREAM_FRAGMENT     :
 
-		    /*
-			msStreamsState =  StreamsScreenState.STREAMS_VIEW ;
-			mCurrentFragment = new StreamsFragment();
-
+//			if ( (msCurrentGlowdecks == null) || (msCurrentGlowdecks.getCurrentlyConnected() == null) )
+//			{
+//				//noOp = true ;
+//				//break ;
+//			}
+//			if (!msCurrentGlowdecks.getCurrentlyConnected().isReceivedInit())
+//			{
+//				//noOp = true ;
+//				//break ;
+//			}
+			msStreamsState =  StreamsScreenState.PICKER_VIEW ;
+			mCurrentFragment = new PickerFragment();
+			mStreamSettingsOn = false ;
 			timeout = 100 ;
-			mStreamSettingsOn = true ;
-            */
-
-            if (msStreamsState == StreamsScreenState.DEVICES_VIEW)
-            {
-                msPrevStreamsState = msPrevStreamsStateDevices ;
-            }
-            else
-            {
-                msPrevStreamsStateDevices = msStreamsState ;
-                msPrevStreamsState = msStreamsState ;
-                mPreviousFragment =  mCurrentFragment ;
-            }
-            msStreamsState =  StreamsScreenState.DEVICES_VIEW ;
-            msMenusInitialized = true ;
-            msDevicesClicked = !msDevicesClicked ;
-
-            mCurrentFragment = null ; //new DevicesFragment();
-            mStreamsDrawerListAdapter.notifyDataSetChanged() ;
-
 			break;
+
+
+//
+//    /*
+//			msStreamsState =  StreamsScreenState.STREAMS_VIEW ;
+//			mCurrentFragment = new StreamsFragment();
+//
+//			timeout = 100 ;
+//			mStreamSettingsOn = true ;
+//            */
+//
+//            if (msStreamsState == StreamsScreenState.DEVICES_VIEW)
+//            {
+//                msPrevStreamsState = msPrevStreamsStateDevices ;
+//            }
+//            else
+//            {
+//                msPrevStreamsStateDevices = msStreamsState ;
+//                msPrevStreamsState = msStreamsState ;
+//                mPreviousFragment =  mCurrentFragment ;
+//            }
+//            msStreamsState =  StreamsScreenState.DEVICES_VIEW ;
+//            msMenusInitialized = true ;
+//            msDevicesClicked = !msDevicesClicked ;
+//
+//            mCurrentFragment = null ; //new DevicesFragment();
+//            mStreamsDrawerListAdapter.notifyDataSetChanged() ;
+//
+//			break;
 
 		case DRAWER_DEVICES_NOFRAGMENT:
 

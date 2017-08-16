@@ -1,0 +1,4 @@
+#Mon Aug 14 13:56:10 PDT 2017
+base.0=/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

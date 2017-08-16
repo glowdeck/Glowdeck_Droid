@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/layout-v11/notification_media_action.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/1d67049b8dc2f1a76c35e595d533f302f533d916/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_2bba8a40221bacc487be9fa837dcda2f7c50e3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/04d8a99477e457d457481ad73fbacf084d9040e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_1f569115253fc51f186027874878aed3e6698f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/gson-2.3_0757fe0f6f90044d4dc8cce02d1ad3a818e8a52b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_67f52c25930783fa8164290928766e0222f01e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/libs/junidecode-0.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb1535f0ea19a97ac0bcbdaff193fe224277c415">
+        <dex dex="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/pre-dexed/debug/junidecode-0.1.1_07506dc066a6c32fe47508aa33dc4dd3ab0db457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/56264e17ff1568e6a614641872745bb7ec85ba5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_67a6a726044c12f1d1ece97a3ed93d4c248173f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/libs/melody-0.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85df044087a74fff8b2e23947ce42de64a9776fb">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/melody-0.13_3f74af76f2ee7c8fdadb01eaabe41a297875be05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c54d5198d5ca853841b25d16cf9668b53db0818e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/a23ae008b35920fe89602cce675ff107c344b4b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_36d900ae9b80c86398e08b5a77b1859eda82aa17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/libs/melody-0.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85df044087a74fff8b2e23947ce42de64a9776fb">
+        <dex dex="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/pre-dexed/debug/melody-0.13_b1e7ea993898af06fdf9b8df41cc73f0c711b84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/f29b50f46821003857b85b9226735256689a84df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_e8866d69c0bd8a4ed1a2ffffbe3b4e9c241a1282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_9fe37ae5b5ef2704f241b3847b21cd8b78b0e7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/4576be189ea0ed45767b522ce0466792b8b8d2cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_2c769f683efe11c4800a61a7eabdd8536c2261c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/volley_e74b7ee1420e0f0ef020608caf46394d67d3bcee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/2601ce4dea77cc2e5bed1afdb202a77de0e27c24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_165c6acf93431a0394b6f28b1c2e5ae1d3a05011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/e43a238d011a13e3972f6a432df1d518001a26d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_0fd334aba3dc8c2179a69cc2c0b438417d82336b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/libs/junidecode-0.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb1535f0ea19a97ac0bcbdaff193fe224277c415">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/junidecode-0.1.1_05fe7dab0f5ee59980d4a259b5039f87cdd26da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/bfc835c28a1df21c4cde147e1be0dfd1a059a9d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_b961fd047e495bcfaf3b0e6e9f62d1f2e3867b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/3b21137c65cc421899de94ce6a24361add0fa5e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_084db3d972546fd166ee004ebc0315b735e4159f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/a05ea500cb3f18f6d360be67e21bd7b296c88f05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_2692dbfff66f862e0ae7940051777b8f62bd4c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/pre-dexed/debug/volley_ef7d854fd04c4f6ef4fddb2a578ebd1aa58183de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_8b95861d80ab371cfd4b28609d71aa534f9ce87b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/ee79f8d347a417b502422d86bb33334f259094ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_3a4788bfb4e15e2505e3c40424f5ff6745cc2509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smartdev/.android/build-cache/fc6ec16f713c0c6e70b2f3bdc0f659f944082082/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/pre-dexed/debug/classes_61b30fecb709e15fa5ba42b2a5df90e52b637e6b.jar" />
+    </item>
+
+</items>

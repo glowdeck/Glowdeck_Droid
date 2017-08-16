@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/menu/stream_settings.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/menu/stream_settings.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/menu/main_activity_actions.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/menu/main_activity_actions.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/menu/individual_settings.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/menu/individual_settings.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/menu/individual_settings_activity.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/menu/individual_settings_activity.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/menu/color_picker_actions.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/menu/color_picker_actions.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/menu/stream_webview.xml",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/menu/stream_webview.xml"
+    }
+]

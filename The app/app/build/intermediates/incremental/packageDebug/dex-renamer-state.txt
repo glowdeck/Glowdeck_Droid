@@ -1,0 +1,4 @@
+#Wed Aug 16 14:26:32 CST 2017
+base.0=/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

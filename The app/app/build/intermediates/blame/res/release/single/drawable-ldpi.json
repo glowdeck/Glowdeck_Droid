@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/drawable-ldpi/streams_launcher.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-ldpi/streams_launcher.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/drawable-ldpi/streamsx_launcher.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-ldpi/streamsx_launcher.png"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/release/drawable-ldpi/streams_icon.png",
+        "source": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/src/main/res/drawable-ldpi/streams_icon.png"
+    }
+]

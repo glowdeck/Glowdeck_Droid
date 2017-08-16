@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

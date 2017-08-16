@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Documents/GitHub/Glowdeck_Droid/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/justinkaufman/Glowdeck/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/justinkaufman/.android/build-cache/61c5c46a7629cbc4e833ea6c4208eeb1854c4489/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/smartdev/Downloads/Glowdeck_Android/The app/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/smartdev/.android/build-cache/f7a5571cabb5090b90bc6c128e9b28435bbae498/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
